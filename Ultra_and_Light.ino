@@ -3,6 +3,7 @@ const int ledPin = 7;
 
 //Add servos
 //Add second servo
+//Add servo 3
 
 //Sensor
 const int trigPin = 9;
